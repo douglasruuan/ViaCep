@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ViaCep</string>
+    <string name="ma_et_cep">CEP</string>
+    <string name="ma_bt_ok">OK</string>
+    <string name="hm_bt_cep">Buscar Rua/Endereço.</string>
+    <string name="hm_bt_rua">Buscar pelo CEP</string>
+
+</resources>
